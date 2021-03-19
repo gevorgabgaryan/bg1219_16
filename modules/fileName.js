@@ -2,9 +2,9 @@
 
 const fileName=(d,f)=>{
  
-    return f.replace(d,"")
+    return f.replace(d,f)
 }
 
-module.exports=
+module.exports={
     fileName
 }
