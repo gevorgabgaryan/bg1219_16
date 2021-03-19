@@ -1,3 +1,3 @@
-const {randomChars}=require("./modules/randomChars")
+const {randomChars}=require("./modules/evenToUpper")
 
 randomChars(7)
